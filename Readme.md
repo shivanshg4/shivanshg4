@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shiivaaansh" target="blank"><img src="https://img.shields.io/twitter/follow/shiivaaansh?logo=twitter&style=for-the-badge" alt="shiivaaansh" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🧲 I am currently engaged in working on **Java**.
 
 - 🌱 I’m currently learning **Web Technologies**
 
